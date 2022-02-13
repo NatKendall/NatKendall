@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+![image](https://drive.google.com/file/d/1TLzOsP05pU5z0lOxhlYMN7XJY2Oz8vkM/view?usp=sharing)
 <!--
 **NatKendall/NatKendall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![image](https://drive.google.com/file/d/1TLzOsP05pU5z0lOxhlYMN7XJY2Oz8vkM/view?usp=sharing)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

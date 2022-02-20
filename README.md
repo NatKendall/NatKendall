@@ -12,8 +12,8 @@ Tell me more-more about yourself:
 - 😁 I enjoy making people smile and laugh, if you’re having a bad day, come see me! 
 
 Coding experience?
--💻 My first learned language was Python! (both self taught(thanks Udemy!) and through college courses).
--🏫 Second language- I’m currently fresh on Java. I think many CS degrees focus on java right? So far I enjoy it, but python just has this beauty to it y'know? (shh don’t tell java).
+- 💻 My first learned language was Python! (both self taught(thanks Udemy!) and through college courses).
+- 🏫 Second language- I’m currently fresh on Java. I think many CS degrees focus on java right? So far I enjoy it, but python just has this beauty to it y'know? (shh don’t tell java).
 
 Here’s some topics I have learned already.
 - 🗯 I only know how to System.out.print, hire me! (joking) 
@@ -24,7 +24,7 @@ Here’s some topics I have learned already.
 - 📚 Methods
 
 Anything else we should know?
-- Of course, I also love to dabble in graphic design! I co-created my fiance's website for both desktop and phone versions. Prior to making it I we sat down and went through a variety of “likes and dislikes”. I made a checklist, pros and cons of different templates, and how exactly I would be able to reach the target audience (also set up a google page for those needed reviews!) Want to see my work? https://www.lunalashesandskincare.com/
+- Of course, I also love to dabble in graphic design! I co-created my fiance's website for both desktop and phone versions. Prior to making it we sat down and went through a variety of “likes and dislikes”. I made a checklist(best way to remember things), pros and cons of different templates, and how exactly I would be able to reach the target audience (also set up a google page for those needed reviews!) Want to see my work? https://www.lunalashesandskincare.com/
 
 Man you’re awesome, how can we chat? 
 - 💬 Please don’t be shy, ask me anything!

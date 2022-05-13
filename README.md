@@ -19,9 +19,10 @@ Here’s some topics I have learned already.
 - 🗯 I only know how to System.out.print, hire me! (joking) 
 - 🪀 Strings/Lists/Arrays/Tuples
 - ➿ Loops (for,while,do-while,nested)
-- 🕗 Manipulations (except those tuples!)
-- 🚗 OOP 
-- 📚 Methods
+- 🕗 Manipulations 
+- - 📚 Methods
+- 🚗 OOP -Polymorphism, abstraction, encapsulation, etc. 
+- 👌 BigO Analysis
 
 Anything else we should know?
 - Of course, I also love to dabble in graphic design! I co-created my fiance's website for both desktop and mobile users. Prior to making it, we sat down and went through a variety of “likes and dislikes”. I made a checklist(best way to remember things), pros and cons of different templates, and how exactly I would be able to reach the target audience (also set up a google page for those needed reviews!) Want to see my work? https://www.lunalashesandskincare.com/

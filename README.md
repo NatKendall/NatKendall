@@ -13,7 +13,7 @@ Tell me more-more about yourself:
 
 Coding experience?
 - 💻 My first learned language was Python! (both self taught(thanks Udemy!) and through college courses).
- 🏫 Second language- I’m currently fresh on Java. I think many CS degrees focus on java right? So far I enjoy it, but python just has this beauty to it y'know? (shh don’t tell java). * Please see my code below *
+ 🏫 Second language- Java! My University mainly focuses on using Java so I am currently learning all there is to know about it. * Please see my code below *
 
 Here’s some topics I have learned already.
 - 🗯 I only know how to System.out.print, hire me! (joking) 

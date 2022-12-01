@@ -3,7 +3,7 @@
 
 Hey there! I’m Nat (she/her),
 
-Prior to making this Github account I was actually a middle school Math teacher! I adored being a teacher but missed being in the coding field, so I am now currently enrolled at UNCG taking Computer Science and searching for a Summer 2022 Internship!  
+Prior to making this Github account I was actually a middle school Math teacher! I adored being a teacher but missed being in the coding field, so I am now currently enrolled at UNCG taking Computer Science.  
 
 Tell me more-more about yourself:
 - 🔭 I'm a curious being whose always ready to take on new tasks

@@ -3,7 +3,7 @@
 
 Hey there! I’m Nat (she/her),
 
-Prior to making this Github account I was actually a middle school Math teacher! I adored being a teacher but missed being in the coding field, so I am now currently enrolled at UNCG taking Computer Science.  
+Prior to making this Github account I was actually a middle school Math teacher! I adored being a teacher but missed being in the coding field, so I am now currently enrolled at UNCG and acchieving a BS in Computer Science. 
 
 Tell me more-more about yourself:
 - 🔭 I'm a curious being whose always ready to take on new tasks
@@ -12,6 +12,7 @@ Tell me more-more about yourself:
 - 😁 I enjoy making people smile and laugh, if you’re having a bad day, come see me! 
 
 Coding experience?
+- Summer 2022 I had an excellent experience learning the works of a Back-End developer during my internship with Pearson.
 - 💻 My first learned language was Python! (both self taught(thanks Udemy!) and through college courses).
  🏫 Second language- Java! My University mainly focuses on using Java so I am currently learning all there is to know about it. * Please see my code below *
 
@@ -23,6 +24,8 @@ Here’s some topics I have learned already.
 - - 📚 Methods
 - 🚗 OOP -Polymorphism, abstraction, encapsulation, etc. 
 - 👌 BigO Analysis
+
+Extra experiences/knowledge : Git, Gitlab, Github, Postman, API's, Kafka, Gremlin, AWS, HTML/CSS/Javascript, Confluence, etc.
 
 Man you’re awesome, how can we chat? 
 - 💬 Please don’t be shy, ask me anything! 📫 Best way to reach me is by email! (contact on resume) 
